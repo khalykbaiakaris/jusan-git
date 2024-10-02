@@ -1,6 +1,8 @@
 # stepik-id-printer (h1)
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`.
 
+![](https://github.com/Smagicom/TechOrda/raw/main/git/4%20branch/jusan-logo.png)
+
 ## Возможности (h2)
 
 Данный проект имеет следующий функционал.
